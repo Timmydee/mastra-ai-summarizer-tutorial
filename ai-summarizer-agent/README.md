@@ -17,6 +17,8 @@ In this part, you’ll create an **AI agent** using Mastra that can summarize **
 
 ##  Run It
 ```bash
+git clone https://github.com/Timmydee/mastra-ai-summarizer-tutorial.git
+cd mastra-ai-summarizer-tutorial/ai-summarizer-agent
 npm install
 npm run dev
 ```
