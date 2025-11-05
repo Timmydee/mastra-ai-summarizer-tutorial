@@ -15,6 +15,8 @@ In this part, you’ll build a **web interface** for your Mastra AI Summarizer A
 
 ## Run It
 ```bash
+git clone https://github.com/Timmydee/mastra-ai-summarizer-tutorial.git
+cd mastra-ai-summarizer-tutorial/ai-summarizer-agent-UI
 npm install
 npm run dev
 ```
