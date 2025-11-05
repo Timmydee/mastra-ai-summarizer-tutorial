@@ -1,21 +1,19 @@
-# Part 1 — Building the AI Summarizer Agent
+# Part 2 — Building the Frontend UI
 
-In this part, you’ll create an **AI agent** using Mastra that can summarize **text** and **URLs**.
+In this part, you’ll build a **web interface** for your Mastra AI Summarizer Agent.
 
-## What You’ll Learn
-- Setting up a Mastra project
-- Creating an agent
-- Connecting tools for summarization
-- Running and testing the agent
+##  Features
+- Summarize text or URLs
+- Display responses in formatted Markdown
+- Show loading states and handle errors gracefully
 
-## Technologies
-- Mastra SDK
-- Node.js
+##  Stack
+- Next.js
+- Tailwind CSS
 - TypeScript
-- axios
-- cheerio
+- Mastra SDK (API integration)
 
-##  Run It
+## Run It
 ```bash
 npm install
 npm run dev
